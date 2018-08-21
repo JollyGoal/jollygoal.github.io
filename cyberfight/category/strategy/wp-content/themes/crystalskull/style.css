@@ -1,0 +1,20 @@
+/*
+Theme Name: CrystalSkull
+Theme URI: http://www.skywarriorthemes.com/crystalskull/
+Author: Skywarrior themes
+Author URI: http://www.skywarriorthemes.com/
+Description: Crystalskull is the ultimate gaming theme. it allows you to create awesome review sites or portfolios for your games and much more!
+Version: 1.8
+License: Skywarrior Themes. All rights reserved.
+License URI: http://themeforest.net/user/Skywarrior
+Tags:  one-column, two-columns, right-sidebar, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready
+Text Domain: crystalskull
+*/
+
+
+@import url('css/bootstrap.css');
+@import url('css/main.css');
+@import url('css/bbpress.css');
+@import url('css/woocommerce.css');
+@import url('css/tooltip.css');
+@import url('css/vcfixes.css');
